@@ -1,7 +1,9 @@
 
 # Se itiliza hashmap para almacenar los indices de los numeros
 # y se busca el complemento necesario para alcanzar el objetivo.
-
+# Si se encuentra el complemento, se devuelve la lista de indices.
+# Este enfoque tiene una complejidad de tiempo O(n) y una complejidad de espacio O(n).
+# Este es un ejemplo de la solución al problema "Two Sum" en LeetCode.
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
         prevMap = {}
