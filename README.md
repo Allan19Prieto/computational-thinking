@@ -1,7 +1,7 @@
 <h1 align="center">computational thinking</h1>
 
 <p align="center">
-  Este repositorio tiene como objetivo recopilar ejercicios de lógica, desafíos de plataformas como <a href="https://leetcode.com/">LeetCode</a>, y conceptos fundamentales de algoritmos y estructuras de datos. Está diseñado para fortalecer las habilidades de razonamiento lógico y mejorar la capacidad de resolución de problemas utilizando el lenguaje Python.
+  Este repositorio tiene como objetivo recopilar ejercicios de lógica, desafíos de plataformas como <a href="https://leetcode.com/">LeetCode</a>, y conceptos fundamentales de algoritmos y estructuras de datos. Está diseñado para fortalecer las habilidades de razonamiento lógico y mejorar la capacidad de resolución de problemas utilizando algunos lenguajes.
 </p>
 
 <h2 align="center">Contenido</h2>
